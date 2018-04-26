@@ -7,9 +7,10 @@
 2. Place the folder in htdocs or www folder.
 3. Go to PhpMyadmin and create a new database called **laravel_crud**.
 4. Select the database and import SQL file named as **laravel_crud**.
-5. Open cmd and navigate into the folder using **cd** command.
-6. Type **php artisan serve** in cmd.
-7. Open web browser and type **locahost:8000** to run the project. 
+5. Rename **.env-example** file as **.env**.
+6. Open cmd and navigate into the folder using **cd** command.
+7. Type **php artisan serve** in cmd.
+8. Open web browser and type **locahost:8000** to run the project. 
 
 ### Screenshots
 
