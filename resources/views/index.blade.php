@@ -17,7 +17,7 @@
 			@foreach($users as $user)
 				<tr>
 					<td>{{ $user->id }}</td>
-					<td><img height="100px" width="100px;" class="img-thumbnail" src="/storage/user_images/{{ $user->user_image}}"></td>
+					<td><img height="100px" width="100px;" class="img-thumbnail" src="/user_images/{{ $user->user_image}}"></td>
 					<td>{{ $user->name }}</td>
 					<td>{{ $user->email }}</td>
 					<td>

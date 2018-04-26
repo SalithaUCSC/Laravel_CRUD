@@ -25,7 +25,7 @@
 		                        </div>
 		                        <div class="col-lg-6">
 		                            <p>Existing Image</p><br>
-		                            <img src="/storage/user_images/{{$user->user_image}}"  style="width: 200px; height: 200px;" id="post-img-edit">
+		                            <img src="/user_images/{{$user->user_image}}"  style="width: 200px; height: 200px;" id="post-img-edit">
 		                        </div>
 		                    </div>
                     	<br><br>

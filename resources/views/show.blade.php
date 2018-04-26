@@ -9,7 +9,7 @@
 					<div class="card-body">
 					    <div class="row">
 					    	<div class="col-lg-6" style="float: left;">
-					    		<img class="img-thumbnail" src="/storage/user_images/{{ $user->user_image}}">
+					    		<img class="img-thumbnail" src="/user_images/{{ $user->user_image}}">
 					    	</div>
 					    	<div class="col-lg-6" style="float: right;">
 					    		<ul class="list-group">
