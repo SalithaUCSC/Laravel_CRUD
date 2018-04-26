@@ -9,8 +9,9 @@
 4. Select the database and import SQL file named as **laravel_crud**.
 5. Rename **.env-example** file as **.env**.
 6. Open cmd and navigate into the folder using **cd** command.
-7. Type **php artisan serve** in cmd.
-8. Open web browser and type **locahost:8000** to run the project. 
+7. Type **composer install** to install dependencies.
+8. Type **php artisan serve** in cmd.
+9. Open web browser and type **locahost:8000** to run the project. 
 
 ### Screenshots
 
